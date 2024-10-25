@@ -1,0 +1,14 @@
+C:\Users\PC-9\source\repos\exercico2\bin\Debug\net8.0\exercico2.exe
+C:\Users\PC-9\source\repos\exercico2\bin\Debug\net8.0\exercico2.deps.json
+C:\Users\PC-9\source\repos\exercico2\bin\Debug\net8.0\exercico2.runtimeconfig.json
+C:\Users\PC-9\source\repos\exercico2\bin\Debug\net8.0\exercico2.dll
+C:\Users\PC-9\source\repos\exercico2\bin\Debug\net8.0\exercico2.pdb
+C:\Users\PC-9\source\repos\exercico2\obj\Debug\net8.0\exercico2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-9\source\repos\exercico2\obj\Debug\net8.0\exercico2.AssemblyInfoInputs.cache
+C:\Users\PC-9\source\repos\exercico2\obj\Debug\net8.0\exercico2.AssemblyInfo.cs
+C:\Users\PC-9\source\repos\exercico2\obj\Debug\net8.0\exercico2.csproj.CoreCompileInputs.cache
+C:\Users\PC-9\source\repos\exercico2\obj\Debug\net8.0\exercico2.dll
+C:\Users\PC-9\source\repos\exercico2\obj\Debug\net8.0\refint\exercico2.dll
+C:\Users\PC-9\source\repos\exercico2\obj\Debug\net8.0\exercico2.pdb
+C:\Users\PC-9\source\repos\exercico2\obj\Debug\net8.0\exercico2.genruntimeconfig.cache
+C:\Users\PC-9\source\repos\exercico2\obj\Debug\net8.0\ref\exercico2.dll
